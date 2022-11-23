@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @hasibur1777
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Assalamu_alaikum, <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px">
+ <a href="https://github.com/HRahman1777"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=HRahman1777&style=plastic&color=blueviolet" width="125"/></a>
 
-<!---
-hasibur1777/hasibur1777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I believe in three words LEARN, SOLVE, DEVELOP
+
+Based on VS Code I spent my time on
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HRahman1777&layout=compact&theme=radical&count_private=true)](https://github.com/HRahman1777)
+
+
+<h4>Connect with me:</h4>
+<a href="mailto:hasibur.cse7@gmail.com"><img src="https://img.icons8.com/ios/50/000000/apple-mail.png"/></a>
+<a href="https://www.linkedin.com/in/hasibur1777/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/linkedin.png"/></a>
+<a href="https://HRahman1777.github.io/" target="_blank"><img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/50/000000/external-website-advertising-kiranshastry-lineal-kiranshastry.png"/></a>
