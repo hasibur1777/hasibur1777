@@ -4,6 +4,7 @@
 I believe in three words LEARN, SOLVE, DEVELOP
 
 Based on VS Code I spent my time on
+[![wakatime](https://wakatime.com/badge/user/9db7e6b3-4687-44a1-b37b-f11ae4e037d7.svg)](https://wakatime.com/@9db7e6b3-4687-44a1-b37b-f11ae4e037d7)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HRahman1777&layout=compact&theme=radical&count_private=true)](https://github.com/HRahman1777)
 
